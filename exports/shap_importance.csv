@@ -1,0 +1,24 @@
+feature_name,feature_code,shap_value,rank
+Departure Hour,dep_hour,0.38162965,1
+Route Delay Rate,route_delay_rate,0.22659397,2
+Airline Delay Rate,airline_delay_rate,0.14610812,3
+Month,month,0.10065037,4
+Year,year,0.09008865,5
+Season,season,0.08477675,6
+Day of Week,day_of_week,0.08333506,7
+Time of Day,time_of_day,0.07267961,8
+Day of Month,day_of_month,0.06845081,9
+Cloud Cover,cloudcover,0.0615852,10
+Temperature,temperature,0.058954936,11
+Wind Speed,windspeed,0.051446524,12
+Airline,airline_code_enc,0.038092103,13
+Weather Condition,weathercode,0.038065605,14
+Precipitation,precipitation,0.03476868,15
+Scheduled Flight Duration,crs_elapsed_time,0.034260888,16
+Destination Airport,dest_enc,0.03209644,17
+Airport Congestion,congestion_score,0.029856328,18
+Origin Airport,origin_enc,0.029168172,19
+Flight Distance,distance,0.020863526,20
+Route Frequency,route_frequency,0.017401569,21
+Holiday Period,is_holiday,0.014177265,22
+Severe Weather Flag,is_severe_weather,0.008843679,23

@@ -1,0 +1,10 @@
+weather_category,total_flights,delayed_flights,avg_delay_mins,delay_rate,weather_type
+None,895650,182358,14.76,0.2036040864176855,Precipitation
+Trace,89391,22227,18.68,0.24864919287176562,Precipitation
+Light,89735,24101,20.89,0.2685797069148047,Precipitation
+Moderate,34345,9913,23.21,0.2886300771582472,Precipitation
+Heavy,56662,18875,28.06,0.3331156683491582,Precipitation
+Calm (<10mph),857268,179848,15.54,0.2097920370292604,Wind Speed
+Breezy (10-20mph),296647,73726,18.56,0.24853108239759714,Wind Speed
+Windy (20-30mph),11778,3856,27.7,0.3273900492443539,Wind Speed
+Very Windy (30+mph),90,44,42.86,0.4888888888888889,Wind Speed
