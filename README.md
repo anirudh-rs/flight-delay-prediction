@@ -6,7 +6,7 @@ A full end-to-end data science project that predicts US domestic flight delays u
 
 ## 📊 Live Dashboard
 
-👉 [View on Tableau Public](https://public.tableau.com/your-link-here)
+👉 [View on Tableau Public](https://public.tableau.com/app/profile/anirudh.raghavendra/viz/USFlightDelayPredictionSystem/AirlinePerformanceDelayTrends)
 
 ---
 
