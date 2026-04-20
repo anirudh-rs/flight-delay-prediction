@@ -3,3 +3,4 @@ data/raw/FlightDelays/
 data/processed/*.csv  
 models/*.pkl  
 tableau/*.twbx 
+src/__pycache__/  
