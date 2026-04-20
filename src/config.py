@@ -2,7 +2,7 @@
 from urllib.parse import quote_plus
 
 # Your raw password here — @ and other special characters are safe in a plain string
-_password = "flightdelay123"  # ← keep your actual password here
+_password = "your_postgres_password_here"  # ← keep your actual password here
 
 DB_CONFIG = {
     "host": "localhost",
